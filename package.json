@@ -1,0 +1,28 @@
+{
+  "name": "theme-sakura",
+  "displayName": "theme-sakura",
+  "description": "vs code theme sakura",
+  "publisher": "m-hiratani",
+  "version": "0.0.1",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "theme-sakura",
+        "uiTheme": "vs",
+        "path": "./themes/theme-sakura-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhiratani/theme-sakura"
+  },
+  "icon": "images/icon.ico"
+}
