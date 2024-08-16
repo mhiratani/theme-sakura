@@ -6,4 +6,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+## [0.0.2] - 2024-08-17
+
+### Changed
+
+- 差分エディターの配色を変更しました
+- カーソル行のハイライト色を若干薄くしました
