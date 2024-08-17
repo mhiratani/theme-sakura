@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.3] - 2024-08-18
+
+### Changed
+
+- サイドバーの配色とリストの配色の相性が悪く、アクティブな項目がわかりにくかったので配色を変更しました
+
 ## [0.0.2] - 2024-08-17
 
 ### Changed

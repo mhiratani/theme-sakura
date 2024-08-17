@@ -3,7 +3,7 @@
   "displayName": "theme-sakura",
   "description": "vs code theme sakura",
   "publisher": "m-hiratani",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "engines": {
     "vscode": "^1.92.0"
