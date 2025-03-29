@@ -3,7 +3,7 @@
   "displayName": "Sakura Theme",
   "description": "A gentle, eye-friendly color theme inspired by cherry blossoms with soft pastels and warm accents",
   "publisher": "m-hiratani",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "engines": {
     "vscode": "^1.92.0"
