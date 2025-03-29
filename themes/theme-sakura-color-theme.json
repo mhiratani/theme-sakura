@@ -59,7 +59,7 @@
 		"statusBar.debuggingBackground": "#cc6633",
 		"statusBar.debuggingForeground": "#ffffff",
 		"statusBar.foreground": "#ffffff",
-		"statusBar.noFolderBackground": "#68217a",s
+		"statusBar.noFolderBackground": "#68217a",
 		"statusBar.noFolderForeground": "#ffffff",
 		"statusBarItem.activeBackground": "#ffffff2e",
 		"statusBarItem.errorBackground": "#611708",
